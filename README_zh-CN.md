@@ -50,6 +50,7 @@
 - [简介](#简介)
 - [最新动态](#最新动态)
 - [目录](#目录)
+- [专项工作流：小红书 IP 图文自动化](#专项工作流小红书-ip-图文自动化)
 - [人像与摄影案例](#人像与摄影案例)
   - [案例 1：便利店霓虹人像（by @BubbleBrain)](#case-1-convenience-store-neon-portrait-by-bubblebrain)
   - [案例 2：电影感极简人像（by @iam_miharbi)](#case-2-cinematic-minimal-portrait-by-iam_miharbi)
@@ -108,6 +109,15 @@
   - [案例 20：白板绘图展示（by @jrpj2010)](#case-20-whiteboard-drawing-showcase-by-jrpj2010)
   - [案例 21：SeeDance 2.0 + GPT-Image-2 组合（by @CEs7J0Mfn8x37k5)](#case-21-seedance-20-gpt-image-2-combo-by-ces7j0mfn8x37k5)
 - [致谢](#致谢)
+
+
+## 专项工作流：小红书 IP 图文自动化
+
+如果你希望把「给一本书/一个主题 -> 自动生成封面图、分页图、结尾图」做成固定生产线，可直接使用本仓库的工作流文档：
+
+- [小红书 IP 图文自动化工作流（中文）](./workflows/xiaohongshu_ip_workflow_zh-CN.md)
+
+该方案已升级为「零基础可用版」：你可以直接提交历史附件（流程、提示词、最终成品），由我先学习你的风格，再按固定三段式持续产出。
 
 ## 人像与摄影案例
 
